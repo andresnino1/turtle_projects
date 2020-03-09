@@ -1,6 +1,6 @@
 # Step 1: Make all the "turtle" commands available to us.
 import turtle
-
+#comentario inicial
 # Step 2: Create a new turtle. We'll call it "bob"
 bob = turtle.Turtle()
 
